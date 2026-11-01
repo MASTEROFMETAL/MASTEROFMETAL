@@ -191,14 +191,13 @@ $\color{#680085}{\normalsize{\texttt{﹕ⵌIf I unfriend you, it means you don't
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&pause=1000&color=FF0185&width=435&lines=Let's+thrash%2C+slash%2C+bash+and+dash!;Turning+it+up+to+11.+Hahahahahaha!;But+my+spirit+remains+unbroken!;Woo-hoo%2C+total+party+kill!+Ha+ha!;I+got+shredded...+bleh.;Seek+and+destroy!;Winging+it%2C+dragon+style!;Turning+it+up+to+11!;Ah%2C+you+need+a+nerf.;You+need+a+nerf!+;Epic+quest+fail.%E2%80%A6;Shoot+to+thrill%2C+play+to+kill.;D20+in+hand%2C+dragon+at+my+command.;Stabidy+stab!;Fancy+lancey!;MadEvil+mosh+pit+mayhem.;Just+kidding!;Guitars+wail+when+my+enemies+fail.;Hehe%2C+epic+quest+fail;Huh%2C+formidable+foe%2C+I'll+best+you+for+sure!;Ah%2C+failed+the+saving+throw..;Dragon+rider%2C+pain+provider;Oh%2C+you+better+be+nice%2C+or+I'll+get+my+dice!;Metal+magic+mayhem!;Time+to+shred+some+foes.;Metal+warriors%2C+number+one!;Rumble+and+roar%2C+to+the+top+I+soar!;My+dice%2C+my+dragon%2C+my+destiny-y-y!)](https://git.io/typing-svg)
 
 
-
-<img width="400" height="104" alt="IMG_1696" src="https://github.com/user-attachments/assets/4e306dbc-6695-406e-9fc7-02173093d237" />
-<img width="400" height="104" alt="IMG_1683" src="https://github.com/user-attachments/assets/227f1709-8afb-4cb7-b57f-7daa145d5fff" />
-
+<p align="center">
+<img width="400" height="104" alt="IMG_1696" src="https://github.com/user-attachments/assets/4e306dbc-6695-406e-9fc7-02173093d237" /><img width="400" height="104" alt="IMG_1683" src="https://github.com/user-attachments/assets/227f1709-8afb-4cb7-b57f-7daa145d5fff" />
 <img width="400" height="54" alt="IMG_1681" src="https://github.com/user-attachments/assets/79ad6a0b-df81-49d3-91c6-fe749a477922" />
 <img width="400" height="54" alt="IMG_1700" src="https://github.com/user-attachments/assets/0720cbae-9691-41d1-af9d-9d621b836fba" />
 <img width="400" height="54" alt="IMG_1699" src="https://github.com/user-attachments/assets/8b8686f6-d1b7-402c-bf23-e0136adbf40f" />
 <img width="400" height="54" alt="IMG_1684" src="https://github.com/user-attachments/assets/b052e63c-cfca-4c98-bddb-127b8e79f7e0" />
+
 
 
 
