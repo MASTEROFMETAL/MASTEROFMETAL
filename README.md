@@ -192,9 +192,9 @@ $\color{#680085}{\normalsize{\texttt{﹕ⵌIf I unfriend you, it means you don't
 
 
 
+<img width="400" height="104" alt="IMG_1696" src="https://github.com/user-attachments/assets/4e306dbc-6695-406e-9fc7-02173093d237" />
+<img width="400" height="104" alt="IMG_1683" src="https://github.com/user-attachments/assets/227f1709-8afb-4cb7-b57f-7daa145d5fff" />
 
-<img width="400" height="54" alt="IMG_1681" src="https://github.com/user-attachments/assets/ff860845-3695-4e35-9542-924c3e479ffa" />
-<img width="400" height="54" alt="IMG_1700" src="https://github.com/user-attachments/assets/4b53f189-9372-4d25-970e-874afa4d2789" />
 <img width="400" height="54" alt="IMG_1681" src="https://github.com/user-attachments/assets/79ad6a0b-df81-49d3-91c6-fe749a477922" />
 <img width="400" height="54" alt="IMG_1700" src="https://github.com/user-attachments/assets/0720cbae-9691-41d1-af9d-9d621b836fba" />
 <img width="400" height="54" alt="IMG_1699" src="https://github.com/user-attachments/assets/8b8686f6-d1b7-402c-bf23-e0136adbf40f" />
