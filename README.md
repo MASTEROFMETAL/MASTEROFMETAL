@@ -217,8 +217,6 @@ $\color{#680085}{\normalsize{\texttt{﹕ⵌIf I unfriend you, it means you don't
   <p align="center">
 <a href="https://chesdraco.straw.page">  ࿙.͜໒꒱strawpage  </a>
   <p align="center">
-<a href="https://madevilmanormoshpit.straw.page">‧˚꒰🔥 ꒱༘‧— strawpage 2 ⋆˚࿔  </a>
-  <p align="center">
 <a href="https://en.pronouns.page/@LeuLovesDraster">  ࿙.໒꒱outdated pns page  </a>
   <p align="center">
 <a href="https://brawlstars.fandom.com/wiki/Chester"> ❦ first-favourite brawler page </a>
