@@ -1,4 +1,4 @@
-# remaking this oh and credits for materials here
+# remaking this oh and credits for materials i used
 
 <p align="left"> 
 <img width="400" height="104" alt="IMG_1683" src="https://github.com/user-attachments/assets/80c06b7a-e984-4131-98e6-21e2df24d2b1" />
