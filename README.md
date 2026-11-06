@@ -1,5 +1,6 @@
 # remaking this
-<img width="2048" height="805" alt="Untitled251_20261027151902" src="https://github.com/user-attachments/assets/b5056d95-9e5d-4131-835e-360655900f3b" />
+<img width="736" height="414" alt="Untitled263_20261106213022" src="https://github.com/user-attachments/assets/f98d818d-fd51-4f8a-8cb3-0c899d68ff86" />
+
 
 
 
