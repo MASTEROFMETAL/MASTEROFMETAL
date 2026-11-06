@@ -1,12 +1,10 @@
 # remaking this oh and credits for materials here
 
-<img width="400" height="104" alt="IMG_1680" src="https://github.com/user-attachments/assets/9c23446f-4dbf-4e82-9fd7-bfceab4e84ee" />
-<img width="400" height="104" alt="IMG_1682" src="https://github.com/user-attachments/assets/6c8797fb-5db7-45d2-a7de-d89ff9418962" />
-<img width="400" height="54" alt="IMG_1681" src="https://github.com/user-attachments/assets/f6d488c7-6554-4821-a938-aec86ada8486" />
+<p align="left"> 
 <img width="400" height="104" alt="IMG_1683" src="https://github.com/user-attachments/assets/80c06b7a-e984-4131-98e6-21e2df24d2b1" />
-<img width="400" height="54" alt="IMG_1684" src="https://github.com/user-attachments/assets/58b75277-0f66-44e9-9cf9-edaf0a2af85c" />
 
-
+<img width="400" height="54" alt="IMG_1681" src="https://github.com/user-attachments/assets/e3261adc-6e7a-4465-b939-4c8654a76a95" />
+<img width="400" height="54" alt="IMG_1700" src="https://github.com/user-attachments/assets/4ffb3bab-afa8-4c81-afec-4b69aa2bab3a" />
 
 <img width="736" height="414" alt="Untitled263_20261106213022" src="https://github.com/user-attachments/assets/f98d818d-fd51-4f8a-8cb3-0c899d68ff86" />
 
