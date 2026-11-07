@@ -5,6 +5,8 @@
  <p> <a href="https://github.com/pt-everypony"> 𓊆ྀི❤︎𓊇ྀི࿙PT-EveryPony.  </a> </p>
 </details>
 
+<img width="56" height="18" alt="IMG_1714" src="https://github.com/user-attachments/assets/9f888d36-c293-40ae-a052-d917b2977ced" />
+<img width="43" height="18" alt="IMG_1731" src="https://github.com/user-attachments/assets/197152e8-4edc-4981-940a-93ff7d80071a" />
 
 
 <img width="736" height="414" alt="Untitled263_20261106213022" src="https://github.com/user-attachments/assets/f98d818d-fd51-4f8a-8cb3-0c899d68ff86" />
