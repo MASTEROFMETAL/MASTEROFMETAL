@@ -29,7 +29,7 @@
     
 
 <p align="center">
- me and <a href="https://github.com/LAWRIE"> bro  /    platonic
+ me and <a href="https://github.com/witherhalo"> bro  /    platonic
 
    <img width="1080" height="554" alt="IMG_1716" src="https://github.com/user-attachments/assets/b8658e49-c8c3-4163-afc0-7652ae16d91b" />
 
