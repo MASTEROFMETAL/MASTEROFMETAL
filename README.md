@@ -2,7 +2,7 @@
 <details>
  <summary>thank you <img width="51" height="39" alt="IMG_1634" src="https://github.com/user-attachments/assets/5db6551d-1491-428c-ad4d-134a7c033c00" />
 </summary>
- <p> <a href="https://github.com/pt-everypony"> ࿙PT-EveryPony.  </a> </p>
+ <p> <a href="https://github.com/pt-everypony"> 𓊆ྀི❤︎𓊇ྀི࿙PT-EveryPony.  </a> </p>
 </details>
 
 
