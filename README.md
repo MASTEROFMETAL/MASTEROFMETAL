@@ -30,7 +30,7 @@ read strawpage in links for drama haha
 
 <p align="center">
  me and <a href="https://github.com/witherhalo"> bro  </a> </p>
-
+<p align="center"> 
 <img width="674" height="511" alt="IMG_1797" src="https://github.com/user-attachments/assets/a0e8b3f5-db45-40ac-b50b-d57fee452095" />
 
 
