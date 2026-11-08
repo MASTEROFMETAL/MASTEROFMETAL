@@ -31,7 +31,8 @@ read strawpage in links for drama haha
 <p align="center">
  me and <a href="https://github.com/witherhalo"> bro  </a> </p>
 
-<img width="736" height="414" alt="IMG_1796" src="https://github.com/user-attachments/assets/28d59327-1919-4cb4-9119-92fb320a2a3a" />
+<img width="374" height="211" alt="IMG_1797" src="https://github.com/user-attachments/assets/a0e8b3f5-db45-40ac-b50b-d57fee452095" />
+
 
 
 
