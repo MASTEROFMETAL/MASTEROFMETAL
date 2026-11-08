@@ -1,4 +1,4 @@
-
+read strawpage in links for drama haha
 <details>
  <summary>thank you <img width="51" height="39" alt="IMG_1634" src="https://github.com/user-attachments/assets/5db6551d-1491-428c-ad4d-134a7c033c00" />
 </summary>
