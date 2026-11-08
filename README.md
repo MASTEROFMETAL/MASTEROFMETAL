@@ -29,7 +29,7 @@ read strawpage in links for drama haha
     
 
 <p align="center">
- me and <a href="https://github.com/witherhalo"> bro  </a> </p> /    platonic . pls dont kill me
+ me and <a href="https://github.com/witherhalo"> bro  </a> </p>platonic . pls dont kill me
 
 <img width="1000" height="563" alt="IMG_1794" src="https://github.com/user-attachments/assets/d36dfcc3-da12-47a9-8089-0ed95d23924f" />
 
