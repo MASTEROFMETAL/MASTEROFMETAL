@@ -20,7 +20,7 @@ read strawpage in links for drama haha
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https%3A%2F%2Fgithub.com%2FMASTEROFMETAL&left_text=%E1%AF%93%E2%98%85&left_color=%23ff0185&right_color=%237e019f)
 
-<p align="center"> <a href="https://shu.straw.page"> working  om this wait </a> 
+<p align="center"> <a href="https://chesdraco.straw.page"> working  om this wait </a> 
 <p align="center"> <a href="https://en.pronouns.page/@LeuLovesDraster"> ࿙.໒꒱ pns pages . working on </a><p align="center"> 
  
   <p align="center"> <a href="https://brawlstars.fandom.com/wiki/Chester"> ❦ Chester  </a>
