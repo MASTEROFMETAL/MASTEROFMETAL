@@ -31,7 +31,8 @@
 <p align="center">
  me and <a href="https://github.com/witherhalo"> bro  </a> </p>
 <p align="center"> 
-<img width="498" height="498" alt="IMG_1869" src="https://github.com/user-attachments/assets/96cadd31-7595-43e4-b1fa-545ea9cdd26a" />
+<img width="360" height="197" alt="IMG_1870" src="https://github.com/user-attachments/assets/4b290ee4-08c0-44aa-9e35-19cc473e653a" />
+
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
