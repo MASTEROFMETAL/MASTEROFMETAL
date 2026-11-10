@@ -22,6 +22,7 @@
 
 <p align="center"> <a href="https://chester-brawlstars.straw.page"> working  om this  </a> 
 <p align="center"> <a href="https://en.pronouns.page/@LeuLovesDraster"> ࿙.໒꒱ pns pages . </a><p align="center"> 
+  <p align="center"> <a href="https://chesterthejester.atabook.org">𓏲ּ𝄢新book </a>
  
   <p align="center"> <a href="https://brawlstars.fandom.com/wiki/Chester"> ❦ Jack of all trades  </a>
  
