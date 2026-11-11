@@ -30,9 +30,9 @@
     
 
 
-  
+ 
 
- me and [bro](https://github.com/witherhalo)  
+   <p align="center">  me and <a href="https://github.com/witherhalo">bro  </a>
 <p align="center"> 
 <img width="460" height="297" alt="IMG_1870" src="https://github.com/user-attachments/assets/4b290ee4-08c0-44aa-9e35-19cc473e653a" />
 
