@@ -15,7 +15,8 @@
 
 
 <p align="center"> 
-<img width="666" height="374" alt="Untitled266_20261107133015" src="https://github.com/user-attachments/assets/3029fd68-10fd-478f-abc2-97f262131eca" />
+<img width="666" height="374" alt="Untitled266_20261111125203" src="https://github.com/user-attachments/assets/2fb7aece-b0aa-4d8c-b701-c41166ce3e11" />
+
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https%3A%2F%2Fgithub.com%2FMASTEROFMETAL&left_text=%E1%AF%93%E2%98%85&left_color=%23ff0185&right_color=%237e019f)
