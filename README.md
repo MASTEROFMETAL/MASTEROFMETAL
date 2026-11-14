@@ -1,8 +1,9 @@
 
 <details>
- <summary>thank you <img width="51" height="39" alt="IMG_1634" src="https://github.com/user-attachments/assets/5db6551d-1491-428c-ad4d-134a7c033c00" />
+ <summary>thank you. <img width="51" height="39" alt="IMG_1634" src="https://github.com/user-attachments/assets/5db6551d-1491-428c-ad4d-134a7c033c00" />
 </summary>
  <p> <a href="https://github.com/pt-everypony"> 𓊆ྀི❤︎𓊇ྀི࿙PT-EveryPony.  </a> </p>
+ <p> <a href="https://github.com/Piddlesjet"> 𓊆ྀི❤︎𓊇ྀི࿙Piddlesjet.  </a> </p>
 </details>
 
 <img width="56" height="18" alt="IMG_1714" src="https://github.com/user-attachments/assets/9f888d36-c293-40ae-a052-d917b2977ced" />
