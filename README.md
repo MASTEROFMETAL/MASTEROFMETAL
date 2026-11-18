@@ -29,24 +29,23 @@
   <p align="center"> <a href="https://brawlstars.fandom.com/wiki/Chester">  ( platonic yume  </a>
  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&pause=1000&color=FF0185&width=435&lines=Let's+thrash%2C+slash%2C+bash+and+dash!;Turning+it+up+to+11.+Hahahahahaha!;But+my+spirit+remains+unbroken!;Woo-hoo%2C+total+party+kill!+Ha+ha!;I+got+shredded...+bleh.;Seek+and+destroy!;Winging+it%2C+dragon+style!;Turning+it+up+to+11!;Ah%2C+you+need+a+nerf.;You+need+a+nerf!+;Epic+quest+fail.%E2%80%A6;Shoot+to+thrill%2C+play+to+kill.;D20+in+hand%2C+dragon+at+my+command.;Stabidy+stab!;Fancy+lancey!;MadEvil+mosh+pit+mayhem.;Just+kidding!;Guitars+wail+when+my+enemies+fail.;Hehe%2C+epic+quest+fail;Huh%2C+formidable+foe%2C+I'll+best+you+for+sure!;Ah%2C+failed+the+saving+throw..;Dragon+rider%2C+pain+provider;Oh%2C+you+better+be+nice%2C+or+I'll+get+my+dice!;Metal+magic+mayhem!;Time+to+shred+some+foes.;Metal+warriors%2C+number+one!;Rumble+and+roar%2C+to+the+top+I+soar!;My+dice%2C+my+dragon%2C+my+destiny-y-y!)](https://git.io/typing-svg)
-    
-
-
- 
-
-   <p align="center">  me and <a href="https://github.com/witherhalo">bro  </a>
-<p align="center"> 
-<img width="460" height="297" alt="IMG_1870" src="https://github.com/user-attachments/assets/4b290ee4-08c0-44aa-9e35-19cc473e653a" />
 
 
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tolxaquwg3dpjrhhemzmxf2qui&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=false&bar_color_cover=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tolxaquwg3dpjrhhemzmxf2qui&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=true&profanity=true&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=true">
   </a>
 </p>
 
 
+
+
+
+
+   <p align="center">  me and <a href="https://github.com/witherhalo">bro  </a>
+<p align="center"> 
+<img width="460" height="297" alt="IMG_1870" src="https://github.com/user-attachments/assets/4b290ee4-08c0-44aa-9e35-19cc473e653a" />
 
   <img width="2048" height="805" alt="Untitled251_20261027151910" src="https://github.com/user-attachments/assets/779da388-2440-4ec9-9551-9e4ba3bb7fac" />
 
