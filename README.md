@@ -67,6 +67,23 @@
      </br>
 </br>
 </br>
+ <table border="0" align="center" style="margin-bottom 20" style="margin-right 2">
+    <tr align="center"></tr>
+      <th>
+            <img width="374" height="211" alt="IMG_1797" src="https://github.com/user-attachments/assets/710b25c6-7c6c-4c2f-aac5-36af92cff008" />
+      ㅤ<br>
+        $\color{#799830}{\textsf{ kinlist. }}$<br>
+        $\color{#FF0000}{\textsf{ Draco from Brawl Stars .  }}$<br>
+        $\color{#FF5500}{\textsf{ Chester from Brawl Stars.  }}$<br>
+        $\color{#FFAA00}{\textsf{ Kohlrabi Cookie from CRTOA  }}$<br>
+        $\color{#FFFF00}{\textsf{ Xavion from The Bacon Hair series by ObliviousHD. }}$<br>
+        ㅤ<br>
+      </th>
+    </table>
+<span style="clear: both" />
+     </br>
+</br>
+</br>
   <img width="2048" height="805" alt="Untitled251_20261027151910" src="https://github.com/user-attachments/assets/779da388-2440-4ec9-9551-9e4ba3bb7fac" />
 
 
