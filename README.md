@@ -47,6 +47,26 @@
 <p align="center"> 
 <img width="460" height="297" alt="IMG_1870" src="https://github.com/user-attachments/assets/4b290ee4-08c0-44aa-9e35-19cc473e653a" />
 
+
+
+ <table border="0" align="left" style="margin-bottom 20" style="margin-right 2">
+    <tr align="left"></tr>
+      <th>
+            <img width="374" height="211" alt="IMG_1797" src="https://github.com/user-attachments/assets/710b25c6-7c6c-4c2f-aac5-36af92cff008" />
+      ㅤ<br>
+        $\color{#733766}{\textsf{ status }}$<br>
+        $\color{#FFFFFF}{\textsf{ 🟢/ 💬  - feel free to interact. }}$<br>
+        $\color{#FFFFFF}{\textsf{ 🌙- interact still , late/ mo resp though. }}$<br>
+        $\color{#FFFFFF}{\textsf{ ⛔- dniuf , iwec , busy , afk , upset etc.. }}$<br>
+        $\color{#733766}{\textsf{ + ty for the nominations }}$<br>
+        $\color{#FFFFFF}{\textsf{ title-town , pt-players }}$<br>
+        ㅤ<br>
+      </th>
+    </table>
+<span style="clear: both" />
+     </br>
+</br>
+</br>
   <img width="2048" height="805" alt="Untitled251_20261027151910" src="https://github.com/user-attachments/assets/779da388-2440-4ec9-9551-9e4ba3bb7fac" />
 
 
