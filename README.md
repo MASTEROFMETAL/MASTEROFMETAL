@@ -67,10 +67,10 @@
      </br>
 </br>
 </br>
- <table border="0" align="center" style="margin-bottom 20" style="margin-right 2">
-    <tr align="center"></tr>
+ <table border="0" align="right" style="margin-bottom 20" style="margin-right 2">
+    <tr align="right"></tr>
       <th>
-            <img width="374" height="211" alt="IMG_1797" src="https://github.com/user-attachments/assets/710b25c6-7c6c-4c2f-aac5-36af92cff008" />
+           <img width="438" height="214" alt="IMG_2049" src="https://github.com/user-attachments/assets/e950a2e0-c3af-42f5-88a0-fe7ee90ea83f" />
       ㅤ<br>
         $\color{#799830}{\textsf{ kinlist. }}$<br>
         $\color{#FF0000}{\textsf{ Draco from Brawl Stars .  }}$<br>
