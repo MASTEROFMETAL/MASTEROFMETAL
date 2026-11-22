@@ -55,10 +55,10 @@
             <img width="374" height="211" alt="IMG_1797" src="https://github.com/user-attachments/assets/710b25c6-7c6c-4c2f-aac5-36af92cff008" />
       ㅤ<br>
         $\color{#799830}{\textsf{ statuses }}$<br>
-        $\color{#e87979}{\textsf{ 🟢/ 💬  - feel free to interact. }}$<br>
-        $\color{#e87979}{\textsf{ 🌙- interact still , late/ mo resp though. }}$<br>
-        $\color{#e87979}{\textsf{ ⛔- dniuf , iwec , busy , afk , upset etc.. }}$<br>
-        $\color{#e87979}{\textsf{ 🎭 - roleplay . dont use much. }}$<br>
+        $\color{#FF0000}{\textsf{ 🟢/ 💬  - feel free to interact. }}$<br>
+        $\color{#FF5500}{\textsf{ 🌙- interact still , late/ mo resp though. }}$<br>
+        $\color{#FFAA00}{\textsf{ ⛔- dniuf , iwec , busy , afk , upset etc.. }}$<br>
+        $\color{#FFFF00}{\textsf{ 🎭 - roleplay . dont use much. }}$<br>
         $\color{#799830}{\textsf{  idm friends, hit me up if you wanna be friends.}}$<br>
         ㅤ<br>
       </th>
