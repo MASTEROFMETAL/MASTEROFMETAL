@@ -54,12 +54,12 @@
       <th>
             <img width="374" height="211" alt="IMG_1797" src="https://github.com/user-attachments/assets/710b25c6-7c6c-4c2f-aac5-36af92cff008" />
       ㅤ<br>
-        $\color{#733766}{\textsf{ status }}$<br>
+        $\color{#de3333}{\textsf{ statuses }}$<br>
         $\color{#FFFFFF}{\textsf{ 🟢/ 💬  - feel free to interact. }}$<br>
         $\color{#FFFFFF}{\textsf{ 🌙- interact still , late/ mo resp though. }}$<br>
         $\color{#FFFFFF}{\textsf{ ⛔- dniuf , iwec , busy , afk , upset etc.. }}$<br>
-        $\color{#733766}{\textsf{ + ty for the nominations }}$<br>
-        $\color{#FFFFFF}{\textsf{ title-town , pt-players }}$<br>
+        $\color{#de3333}{\textsf{ 🎭 - roleplay . dont use much. }}$<br>
+        $\color{#FFFFFF}{\textsf{  idm friends, hit me up if you wanna be friends.}}$<br>
         ㅤ<br>
       </th>
     </table>
